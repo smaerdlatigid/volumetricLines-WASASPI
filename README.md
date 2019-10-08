@@ -1,2 +1,3 @@
 # wasapi_man
-dkvfx wasapi audio lines
+
+![](spectral_lines.gif)
